@@ -1,0 +1,32 @@
+{
+  "lang": {
+    "label": "Ngôn ngữ"
+  },
+  "app": {
+    "title": "Nuxt 4 + Shadcn UI",
+    "subtitle": "Base component (molecules / organisms / Storybook)",
+    "openStorybook": "Mở Storybook"
+  },
+  "common": {
+    "refresh": "Làm mới",
+    "error": "Lỗi",
+    "ok": "OK",
+    "cancel": "Hủy",
+    "list": "Danh sách",
+    "loading": "Đang tải...",
+    "records": "bản ghi",
+    "create": "Tạo mới",
+    "name": "Tên",
+    "description": "Mô tả",
+    "code": "Mã",
+    "active": "Hoạt động",
+    "inactive": "Ngừng",
+    "search": "Tìm kiếm",
+    "settings": "Cài đặt",
+    "submitFailed": "Gửi thất bại"
+  },
+  "forbidden": {
+    "title": "Không có quyền truy cập",
+    "subtitle": "Bạn không có quyền xem trang này."
+  }
+}

@@ -1,0 +1,58 @@
+# Nuxt dev/build outputs
+.output
+.data
+.nuxt
+.nitro
+.cache
+dist
+
+# Accidental Next.js build dir (this repo is Nuxt + Nest)
+.next/
+
+# Accidental Nuxt CLI output (wrong flags)
+--host/
+--port/
+
+# Node dependencies
+node_modules
+.pnpm-store
+pnpm-lock.yaml
+pnpm-workspace.yaml
+
+# Logs
+logs
+*.log
+
+# Misc
+.DS_Store
+.fleet
+.idea
+
+# Storybook
+storybook-static
+
+# Generated stories (keep hand-written stories in /stories)
+stories/auto/
+
+# Cypress artifacts
+playwright-report/
+test-results/
+blob-report/
+playwright/.cache/
+
+# Nuxt E2E build dir (tách khỏi .nuxt dev)
+.nuxt-e2e
+
+# Vitest coverage (generated)
+coverage/
+
+# Local env files
+.env
+.env.*
+!.env.example
+!docker/.env.example
+docker/.env
+
+# CodeGraph local index
+.codegraph/
+.codegraph-*/

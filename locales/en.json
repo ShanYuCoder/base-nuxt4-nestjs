@@ -1,0 +1,32 @@
+{
+  "lang": {
+    "label": "Language"
+  },
+  "app": {
+    "title": "Nuxt 4 + Shadcn UI",
+    "subtitle": "Component base (molecules / organisms / Storybook)",
+    "openStorybook": "Open Storybook"
+  },
+  "common": {
+    "refresh": "Refresh",
+    "error": "Error",
+    "ok": "OK",
+    "cancel": "Cancel",
+    "list": "List",
+    "loading": "Loading...",
+    "records": "records",
+    "create": "Create",
+    "name": "Name",
+    "description": "Description",
+    "code": "Code",
+    "active": "Active",
+    "inactive": "Inactive",
+    "search": "Search",
+    "settings": "Settings",
+    "submitFailed": "Submission failed"
+  },
+  "forbidden": {
+    "title": "Forbidden",
+    "subtitle": "You do not have permission to view this page."
+  }
+}
